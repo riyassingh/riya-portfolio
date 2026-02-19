@@ -28,9 +28,6 @@ This is a sleek and responsive personal portfolio website built using HTML and C
 🚀 GitHub Pages – Free and fast hosting
 
 #📁 Folder Structure
-bash
-Copy
-Edit
 📂 riya-portfolio/
 ├── 📄 index.html         # The main page  
 ├── 🎨 style.css          # Custom styles  
